@@ -1,2 +1,2 @@
 # kwebview
-kwebview是一个基于Google Chromium项目的Web渲染引擎，其目的是让开发者能够简单、快速的将其嵌入到自己的App中,提供一个统一并且快速的Web运行环境，解决和避免因Android自带Webview性能低下和Android系统版本分散带来的碎片化等问题。
+kwebview是一个基于Google Chromium项目的Web渲染引擎（当前最新版本基于Chromium 56.0.2924.23），其目的是让开发者能够简单、快速的将其嵌入到自己的App中,提供一个统一并且快速的Web运行环境，解决和避免因Android自带Webview性能低下和Android系统版本分散带来的碎片化等问题。
